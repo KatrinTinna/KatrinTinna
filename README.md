@@ -1,12 +1,12 @@
-## Hi, I'm Katrín Tinna
+# Hi, I'm Katrín Tinna
 
 I'm a Software Engineer at Tempo Software. I graduated from Reykjavík University in June 2026 with a B.S. in Software Engineering.
 
 I've always enjoyed mathematics and problem-solving, and I'm particularly interested in how programming and mathematical thinking can be applied to complex real-world problems. I'm also interested in machine learning, data analysis, and exploring new areas of technology.
 
-### Research
+## Research
 
-#### UROP: Machine Learning Analysis of Iceland's Groundfish Survey
+### UROP: Machine Learning Analysis of Iceland's Groundfish Survey
 *Undergraduate Research Opportunities Program · Spring 2026*
 
 I worked on a research project using data from Iceland's spring groundfish survey (SMB), focusing on catch data for cod, haddock, redfish, and wolffish.
@@ -17,7 +17,7 @@ The project also explored how environmental conditions, fishing gear, and locati
 
 *The research code is private*
 
-### Selected Projects from RU
+## Selected Projects from RU
 
 - **[Programming Languages](https://github.com/KatrinTinna/Forritunarmal)**: Implemented a lexer, parser, compiler, and interpreter in Python.
 
@@ -29,8 +29,16 @@ The project also explored how environmental conditions, fishing gear, and locati
   - [Testing and data project](https://github.com/KatrinTinna/week-8-data)
   - [Software maintenance project](https://github.com/KatrinTinna/vidhald_hugbunadar_week7)
 
-### Technologies
+## Technologies
 
-**Languages:** Python · TypeScript · Java · SQL · C
+**Languages:** Python · TypeScript · JavaScript · SQL · C · C++ · Go · Java · HTML/CSS
 
-**Tools & Technologies:** Terraform · Auth0 · Git · CI/CD · Jupyter · Next.js · Playwright
+**Web & Mobile:** React · Next.js · React Native (Expo) · Tailwind CSS · Vite
+
+**Backend & Data:** FastAPI · Hono · PostgreSQL · SQLite · Drizzle ORM · Supabase · RabbitMQ
+
+**Machine Learning:** scikit-learn · pandas · NumPy · Matplotlib · Jupyter
+
+**Cloud & DevOps:** Docker · Terraform · Auth0 · Cloudflare Workers · Vercel · GitHub Actions · Git
+
+**Testing:** Vitest · Playwright · pytest · React Testing Library
